@@ -1,23 +1,7 @@
 INFO:     Will watch for changes in these directories: ['/home/workspace']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [582] using StatReload
-INFO:     Started server process [584]
+INFO:     Started reloader process [677] using StatReload
+INFO:     Started server process [679]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     172.20.0.1:34406 - "HEAD / HTTP/1.1" 405 Method Not Allowed
-INFO:     172.20.0.1:34450 - "GET /api/progress HTTP/1.1" 500 Internal Server Error
-INFO:     172.20.0.1:34442 - "GET /api/investors?limit=6 HTTP/1.1" 500 Internal Server Error
-INFO:     172.20.0.1:34450 - "GET /api/progress HTTP/1.1" 500 Internal Server Error
-INFO:     172.20.0.1:34442 - "GET /api/investors?limit=6 HTTP/1.1" 500 Internal Server Error
-INFO:     172.20.0.1:34464 - "GET /api/progress HTTP/1.1" 500 Internal Server Error
-INFO:     172.20.0.1:34464 - "GET /api/investors?limit=6 HTTP/1.1" 500 Internal Server Error
-INFO:     172.20.0.1:34464 - "GET /api/investors?limit=6 HTTP/1.1" 500 Internal Server Error
-INFO:     172.20.0.1:39300 - "GET /api/progress HTTP/1.1" 500 Internal Server Error
-INFO:     172.20.0.1:39304 - "GET /api/progress HTTP/1.1" 500 Internal Server Error
-INFO:     172.20.0.1:39312 - "GET /api/investors?limit=6 HTTP/1.1" 500 Internal Server Error
-INFO:     172.20.0.1:39304 - "GET /api/progress HTTP/1.1" 500 Internal Server Error
-INFO:     172.20.0.1:39312 - "GET /api/investors?limit=6 HTTP/1.1" 500 Internal Server Error
-INFO:     172.20.0.1:46958 - "GET /api/progress HTTP/1.1" 500 Internal Server Error
-INFO:     172.20.0.1:46958 - "GET /api/investors?limit=6 HTTP/1.1" 500 Internal Server Error
-INFO:     172.20.0.1:46958 - "GET /api/progress HTTP/1.1" 500 Internal Server Error
-INFO:     172.20.0.1:46958 - "GET /api/investors?limit=6 HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:47426 - "HEAD / HTTP/1.1" 405 Method Not Allowed
